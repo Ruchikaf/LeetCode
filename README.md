@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ruchikaf/LeetCode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Ruchikaf/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,5 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ruchikaf/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Ruchikaf/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
