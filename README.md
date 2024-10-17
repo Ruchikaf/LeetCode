@@ -20,4 +20,9 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Ruchikaf/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Ruchikaf/LeetCode/tree/master/0066-plus-one) |
+| [0670-maximum-swap](https://github.com/Ruchikaf/LeetCode/tree/master/0670-maximum-swap) |
+## Greedy
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/Ruchikaf/LeetCode/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
