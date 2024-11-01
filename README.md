@@ -19,6 +19,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/Ruchikaf/LeetCode/tree/master/0058-length-of-last-word) |
 | [0742-to-lower-case](https://github.com/Ruchikaf/LeetCode/tree/master/0742-to-lower-case) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Ruchikaf/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Ruchikaf/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Math
 |  |
