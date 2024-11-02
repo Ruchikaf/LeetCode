@@ -21,6 +21,7 @@
 | [0742-to-lower-case](https://github.com/Ruchikaf/LeetCode/tree/master/0742-to-lower-case) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Ruchikaf/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Ruchikaf/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2580-circular-sentence](https://github.com/Ruchikaf/LeetCode/tree/master/2580-circular-sentence) |
 ## Math
 |  |
 | ------- |
