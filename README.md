@@ -11,6 +11,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ruchikaf/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/Ruchikaf/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ruchikaf/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2716-prime-subtraction-operation](https://github.com/Ruchikaf/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ruchikaf/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ruchikaf/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Hash Table
@@ -38,11 +39,13 @@
 | [0670-maximum-swap](https://github.com/Ruchikaf/LeetCode/tree/master/0670-maximum-swap) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ruchikaf/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ruchikaf/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2716-prime-subtraction-operation](https://github.com/Ruchikaf/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Greedy
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Ruchikaf/LeetCode/tree/master/0670-maximum-swap) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ruchikaf/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [2716-prime-subtraction-operation](https://github.com/Ruchikaf/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Backtracking
 |  |
 | ------- |
@@ -75,4 +78,12 @@
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ruchikaf/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Ruchikaf/LeetCode/tree/master/2716-prime-subtraction-operation) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Ruchikaf/LeetCode/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
