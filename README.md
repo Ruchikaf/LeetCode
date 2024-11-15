@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/Ruchikaf/LeetCode/tree/master/0066-plus-one) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ruchikaf/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ruchikaf/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ruchikaf/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1940-maximum-xor-for-each-query](https://github.com/Ruchikaf/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Ruchikaf/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ruchikaf/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -85,6 +86,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ruchikaf/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Ruchikaf/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ruchikaf/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Ruchikaf/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -95,5 +97,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ruchikaf/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ruchikaf/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+## Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ruchikaf/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ruchikaf/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
