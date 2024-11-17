@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ruchikaf/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Ruchikaf/LeetCode/tree/master/0066-plus-one) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ruchikaf/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ruchikaf/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ruchikaf/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ruchikaf/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -79,15 +80,18 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ruchikaf/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/Ruchikaf/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 ## Sliding Window
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ruchikaf/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ruchikaf/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Ruchikaf/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ruchikaf/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ruchikaf/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Ruchikaf/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ruchikaf/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -109,4 +113,16 @@
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ruchikaf/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ruchikaf/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ruchikaf/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ruchikaf/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
