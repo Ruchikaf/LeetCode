@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Ruchikaf/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Ruchikaf/LeetCode/tree/master/0066-plus-one) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ruchikaf/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ruchikaf/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ruchikaf/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ruchikaf/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ruchikaf/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ruchikaf/LeetCode/tree/master/0001-two-sum) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ruchikaf/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Ruchikaf/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Ruchikaf/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ruchikaf/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -137,6 +139,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ruchikaf/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ruchikaf/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
