@@ -154,4 +154,8 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Ruchikaf/LeetCode/tree/master/0787-sliding-puzzle) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Ruchikaf/LeetCode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
