@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ruchikaf/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Ruchikaf/LeetCode/tree/master/0066-plus-one) |
+| [0494-target-sum](https://github.com/Ruchikaf/LeetCode/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ruchikaf/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Ruchikaf/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ruchikaf/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -98,6 +99,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Ruchikaf/LeetCode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Ruchikaf/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## String Matching
 |  |
@@ -273,6 +275,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Ruchikaf/LeetCode/tree/master/0494-target-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ruchikaf/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 ## Ordered Set
 |  |
