@@ -22,6 +22,7 @@
 | [1755-defuse-the-bomb](https://github.com/Ruchikaf/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Ruchikaf/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Ruchikaf/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Ruchikaf/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Ruchikaf/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Ruchikaf/LeetCode/tree/master/1972-rotating-the-box) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ruchikaf/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
