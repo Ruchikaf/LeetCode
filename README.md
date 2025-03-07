@@ -12,6 +12,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ruchikaf/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ruchikaf/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ruchikaf/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Ruchikaf/LeetCode/tree/master/0189-rotate-array) |
 | [0494-target-sum](https://github.com/Ruchikaf/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ruchikaf/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ruchikaf/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Ruchikaf/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Ruchikaf/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Ruchikaf/LeetCode/tree/master/0189-rotate-array) |
 | [0670-maximum-swap](https://github.com/Ruchikaf/LeetCode/tree/master/0670-maximum-swap) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ruchikaf/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ruchikaf/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -189,6 +191,7 @@
 | [0027-remove-element](https://github.com/Ruchikaf/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ruchikaf/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ruchikaf/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Ruchikaf/LeetCode/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ruchikaf/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ruchikaf/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Ruchikaf/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
