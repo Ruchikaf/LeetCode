@@ -12,6 +12,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ruchikaf/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ruchikaf/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruchikaf/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ruchikaf/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Ruchikaf/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ruchikaf/LeetCode/tree/master/0189-rotate-array) |
 | [0494-target-sum](https://github.com/Ruchikaf/LeetCode/tree/master/0494-target-sum) |
@@ -101,6 +102,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ruchikaf/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0670-maximum-swap](https://github.com/Ruchikaf/LeetCode/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ruchikaf/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ruchikaf/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -296,6 +298,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruchikaf/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ruchikaf/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0494-target-sum](https://github.com/Ruchikaf/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ruchikaf/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Ruchikaf/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
