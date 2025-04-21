@@ -17,6 +17,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ruchikaf/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Ruchikaf/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ruchikaf/LeetCode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/Ruchikaf/LeetCode/tree/master/0274-h-index) |
 | [0494-target-sum](https://github.com/Ruchikaf/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ruchikaf/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ruchikaf/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ruchikaf/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ruchikaf/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Ruchikaf/LeetCode/tree/master/0274-h-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ruchikaf/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ruchikaf/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ruchikaf/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -337,4 +339,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ruchikaf/LeetCode/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Ruchikaf/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
