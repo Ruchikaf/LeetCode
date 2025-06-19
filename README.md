@@ -36,6 +36,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ruchikaf/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Ruchikaf/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Ruchikaf/LeetCode/tree/master/1972-rotating-the-box) |
+| [2058-concatenation-of-array](https://github.com/Ruchikaf/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Ruchikaf/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Ruchikaf/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/Ruchikaf/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -259,6 +260,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/Ruchikaf/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Ruchikaf/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ruchikaf/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Ruchikaf/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
