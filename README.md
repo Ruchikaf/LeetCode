@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/Ruchikaf/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ruchikaf/LeetCode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/Ruchikaf/LeetCode/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ruchikaf/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0494-target-sum](https://github.com/Ruchikaf/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Ruchikaf/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Ruchikaf/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -65,6 +66,7 @@
 | [0001-two-sum](https://github.com/Ruchikaf/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Ruchikaf/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ruchikaf/LeetCode/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ruchikaf/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Ruchikaf/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ruchikaf/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Ruchikaf/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -100,6 +102,7 @@
 | [0066-plus-one](https://github.com/Ruchikaf/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Ruchikaf/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ruchikaf/LeetCode/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ruchikaf/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0670-maximum-swap](https://github.com/Ruchikaf/LeetCode/tree/master/0670-maximum-swap) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ruchikaf/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ruchikaf/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -348,4 +351,12 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Ruchikaf/LeetCode/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ruchikaf/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ruchikaf/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
