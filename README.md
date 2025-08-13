@@ -17,6 +17,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ruchikaf/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Ruchikaf/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ruchikaf/LeetCode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Ruchikaf/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Ruchikaf/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ruchikaf/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0494-target-sum](https://github.com/Ruchikaf/LeetCode/tree/master/0494-target-sum) |
@@ -164,6 +165,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Ruchikaf/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ruchikaf/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/Ruchikaf/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [3427-special-array-ii](https://github.com/Ruchikaf/LeetCode/tree/master/3427-special-array-ii) |
